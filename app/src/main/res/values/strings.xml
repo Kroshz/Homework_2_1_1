@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Homework_2_1_1</string>
+    <string name="string_value">Введите сумму</string>
+    <string name="string_info">Введите информацию об оплате</string>
+    <string name="string_forma">Выберите форму оплаты</string>
+    <string name="string_card">С банковской карты</string>
+    <string name="string_mobile">С мобильного телефона</string>
+    <string name="string_cash">Наличными по адресу</string>
+    <string name="string_ok">Ок</string>
+    <string name="string_cb_card">Введите номер карты</string>
+    <string name="string_cb_phone">Введите номер телефона</string>
+    <string name="string_cb_adress">Введите адрес</string>
+    <string name="string_operationComplete">Операция проведена успешно</string>
+</resources>
